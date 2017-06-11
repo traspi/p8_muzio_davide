@@ -1,0 +1,1 @@
+(ROOT(SBAR(IN If)(S(NP(SIG {Tdistance}))(VP(VBZ is)(ADJP(QT(JJR less)(IN than)(VT 1000))))))(EP ,)(NP(SIG {Tin}))(VP(MD shall)(PRN(NP(REQ {Req7})))(VP(VB be)(VP(VBN set)(PP(TO to)(ADJP(VT 1))))))(EP .))

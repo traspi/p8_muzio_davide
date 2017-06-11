@@ -1,0 +1,1 @@
+(ROOT(SBAR(WHADVP(WRB When))(S(NP(SIG {Tdistance}))(VP(VBZ is)(ADJP(QT(JJR greater)(IN than)(VT 10000))))))(EP ,)(NP(SIG {Tapproaching}))(VP(MD shall)(PRN(NP(REQ {Req12})))(VP(VB be)(VP(VBN set)(PP(TO to)(ADJP(VT 0))))))(EP .))

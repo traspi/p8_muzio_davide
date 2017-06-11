@@ -1,0 +1,13 @@
+After IN
+{Power-up} SIG
+becomes VBZ
+1 VT
+, EP
+{Tapproaching} SIG
+shall MD
+be VB
+{Req1} REQ
+to TO
+set VBN
+0 VT
+. EP

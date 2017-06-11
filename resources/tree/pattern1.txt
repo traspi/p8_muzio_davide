@@ -1,0 +1,1 @@
+(ROOT(SBAR(IN After)(S(NP(SIG {Power-up}))(VP(VBZ becomes)(ADJP(VT 1)))))(EP ,)(NP(SIG {Tapproaching}))(VP(MD shall)(PRN(NP(REQ {Req1})))(VP(VB be)(VP(VBN set)(PP(TO to)(ADJP(VT 0))))))(EP .))

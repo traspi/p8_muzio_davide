@@ -1,0 +1,1 @@
+(ROOT(SBAR(IN If)(S(NP(SIG {Tapproaching}))(VP(VBZ is)(ADJP(VT 1)))))(EP ,)(ADVP(RB then))(NP(SIG {Gopen}))(VP(MD shall)(PRN(NP(REQ {Req6})))(VP(VB be)(VP(VBN set)(PP(TO to)(ADJP(VT 0)))))))
