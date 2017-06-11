@@ -6,5 +6,5 @@ Per avviare il programma:
  - Spostarsi nella cartella src
  - eseguire il file Main.py con python 3
 	Digitare da terminale:
-		per Linux		python3 Main.py
-		per Windows		python Main.py
+	 - per Linux		python3 Main.py
+	 - per Windows		python Main.py
