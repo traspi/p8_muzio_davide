@@ -13,7 +13,12 @@ All'interno della cartella htmlcov dentro index.html si trova il riassunto dei t
 	
 Per verificare i dati installare il modulo coverage.py
 	
-	pip install coverage
+	pip3 install coverage
+	
+	
+In caso di errore installare pip per python 3
+
+	sudo apt-get install python3-pip
 	
 	
 Successivamente eseguire il comando:
